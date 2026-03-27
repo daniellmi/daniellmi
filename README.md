@@ -6,4 +6,3 @@
 </article>
 
 - 🔭 Computer technician and Developer.
-- 👯 I’m looking to collaborate on new innovation projects and ideas.
